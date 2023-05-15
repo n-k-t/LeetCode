@@ -1,6 +1,6 @@
 # Statistics - 05/14/2023 
 
-- **Problem:** 1,572 -  Matrix Diagonal Sum 
+- **Problem:** 1,572 - Matrix Diagonal Sum 
 - **Difficulty:** Easy 
 - **Language:** Python3 
 - **Runtime:** 121 ms 
